@@ -1,4 +1,61 @@
 body {
-    background-image: url(./img/bg.png);
+    background-image: url(./img/bg.jpg);
 }
 
+h1 {
+    background-color: aliceblue;
+    color: black;
+    font-size: 62px;
+    padding: 10px;
+    margin: 15px;
+    width: fit-content;
+    border: 10px grey;
+}
+
+img {
+    border: grey;
+    border: 20px;
+    margin-left: 20px;
+    width: 900px;
+    height: auto;
+}
+
+div {
+    display: block;
+    margin-left: 1060px;
+    margin-bottom: 900px;
+    margin-top: -650px;
+    
+}
+
+h3 {
+    background-color: azure;
+    color: black;
+    width: fit-content;
+    padding: 10px;
+    margin: 15px;
+    font-size: 42px;
+    border-color: grey;
+    border: 10px;
+}
+
+a {
+    background-color: aquamarine;
+    color: magenta;
+    font-size: 24px;
+    width: fit-content;
+    margin: 15px;
+    padding: 10px;
+    border: 5px;
+    border-color: gray;
+
+}
+
+p{
+    background-color: antiquewhite;
+    color: black;
+    font-size: 18px;
+    margin: 15px;
+    padding: 20px;
+    width: fit-content;
+}
